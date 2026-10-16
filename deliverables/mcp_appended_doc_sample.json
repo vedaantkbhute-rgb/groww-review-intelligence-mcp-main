@@ -1,0 +1,48 @@
+{
+  "id": "NOTE-20261011-223000",
+  "timestamp": "2026-10-11T22:30:00.000000",
+  "approved_by": "Juhi Mungle (Product Lead)",
+  "date": "2026-10-11",
+  "top_themes": [
+    {
+      "name": "Pricing & Unexpected Exit Load Charges",
+      "count": 10,
+      "percentage": 40.0,
+      "description": "Users report surprise deductions (1% exit load) when redeeming equity mutual funds before 365 days without in-app warning."
+    },
+    {
+      "name": "SIP Mandate & Payment Processing Delays",
+      "count": 5,
+      "percentage": 20.0,
+      "description": "Complaints regarding Auto-pay failures, delayed unit allotment, and BSE Star MF mandate glitches."
+    },
+    {
+      "name": "App Experience & Portfolio Tracking",
+      "count": 5,
+      "percentage": 20.0,
+      "description": "Positive feedback on dark mode UI, fund search, and requests for improved annual capital gains filters."
+    }
+  ],
+  "weekly_pulse": "WEEKLY PRODUCT PULSE — MUTUAL FUNDS\nDate Range: 2026-08-01 to 2026-10-10 | Volume: 25 Reviews\n\nSUMMARY OF TOP THEMES:\nCustomer feedback is dominated by: Pricing & Unexpected Exit Load Charges (40.0%), SIP Mandate & Payment Processing Delays (20.0%), App Experience & Portfolio Tracking (20.0%).\n\nSUPPORTING USER QUOTES:\n• “I redeemed my HDFC Flexi Cap fund units after 8 months and noticed almost 1% was deducted as some fee called 'Exit Load'! Why was this not clearly shown on the sell screen?” — Aditya Sharma\n• “Hidden charges everywhere. When I withdrew my money after 5 months, an exit load fee of ₹1,450 was cut from my balance. Nobody warned me during redemption that 1 year wasn't completed.” — Pooja Hegde\n\nKEY OBSERVATION:\nRetail investors heavily misunderstand mutual fund Exit Loads. Over 40% of negative reviews mistake the AMC's statutory 1% early redemption load for hidden broker commission. Users prematurely sell units days before the 365-day cutoff without realizing penalties apply.\n\n3 PRODUCT ACTION IDEAS:\n1. Add an 'Exit Load Countdown Pill' on the sell screen displaying exact days remaining until 0% penalty.\n2. Integrate real-time 'Estimated Net Payout' breakdown before T-PIN authorization so deductions are never a surprise.\n3. Add proactive portfolio warning banners: 'Hold for X more days to save 1% exit load' on near-cutoff holdings.",
+  "identified_fee_issue": "Mutual Fund Exit Load Misunderstanding (Unexpected 1% Deduction)",
+  "explanation_bullets": [
+    "Exit Load is a statutory fee levied by the Asset Management Company (AMC)—not Groww—to discourage premature redemptions and protect long-term investors.",
+    "For standard equity mutual funds (e.g. HDFC Flexi Cap), an exit load of 1.00% applies if units are redeemed or switched within 365 days (1 year) from the allotment date.",
+    "If fund units are redeemed after completing 365 days from the allotment date, the applicable exit load is strictly Nil (0%).",
+    "Switching between schemes or moving from Regular to Direct plans is legally treated as a redemption and fresh purchase, attracting exit loads if held under 365 days.",
+    "All exit load proceeds are credited directly back into the mutual fund scheme portfolio for the benefit of continuing unit holders, as mandated by SEBI guidelines.",
+    "Official sources: https://www.amfiindia.com/investor-corner/knowledge-center/exit-load.html and https://www.sebi.gov.in/legal/master-circulars/jun-2023/master-circular-for-mutual-funds_73229.html. Last checked: 2026-10-02."
+  ],
+  "source_links": [
+    {
+      "title": "AMFI India - Mutual Fund Exit Loads Explained",
+      "url": "https://www.amfiindia.com/investor-corner/knowledge-center/exit-load.html",
+      "authority": "AMFI"
+    },
+    {
+      "title": "SEBI Master Circular for Mutual Funds",
+      "url": "https://www.sebi.gov.in/legal/master-circulars/jun-2023/master-circular-for-mutual-funds_73229.html",
+      "authority": "SEBI"
+    }
+  ]
+}

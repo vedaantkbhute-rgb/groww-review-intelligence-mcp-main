@@ -1,0 +1,42 @@
+[
+  {
+    "id": "SRC-001",
+    "title": "AMFI India - Mutual Fund Exit Loads Explained",
+    "url": "https://www.amfiindia.com/investor-corner/knowledge-center/exit-load.html",
+    "authority": "AMFI (Industry Association)",
+    "description": "Explains statutory purpose of exit loads to discourage short-term redemptions and protect long-term investors.",
+    "last_checked": "2026-10-02"
+  },
+  {
+    "id": "SRC-002",
+    "title": "SEBI Master Circular for Mutual Funds (Categorization & Rationalization)",
+    "url": "https://www.sebi.gov.in/legal/master-circulars/jun-2023/master-circular-for-mutual-funds_73229.html",
+    "authority": "SEBI (Regulator)",
+    "description": "Regulatory guidelines establishing exit load credits back to fund schemes and mandatory disclosure standards.",
+    "last_checked": "2026-10-02"
+  },
+  {
+    "id": "SRC-003",
+    "title": "HDFC Mutual Fund Scheme Information Document (SID) - Exit Load Disclosures",
+    "url": "https://files.hdfcfund.com/s3fs-public/SID/2025-11/SID%20-%20HDFC%20Flexi%20Cap%20Fund%20dated%20November%2021%2C%202025_0.pdf",
+    "authority": "HDFC AMC (Fund House)",
+    "description": "Official scheme document stating: 1.00% exit load if redeemed on or before 1 year (365 days); Nil after 1 year.",
+    "last_checked": "2026-10-02"
+  },
+  {
+    "id": "SRC-004",
+    "title": "Groww Help Center - Charges & Mutual Fund Exit Loads",
+    "url": "https://groww.in/help/mutual-funds/charges/what-is-exit-load-in-mutual-funds",
+    "authority": "Groww (Platform / Distribution)",
+    "description": "Clarifies that Groww does not levy brokerage or redemption fees; exit loads are levied exclusively by the AMC.",
+    "last_checked": "2026-10-02"
+  },
+  {
+    "id": "SRC-005",
+    "title": "AMFI Investor FAQ - Difference Between Lock-In Period and Exit Load",
+    "url": "https://www.amfiindia.com/investor/knowledge-center-info?zoneName=TypesOfMutualFundSchemes",
+    "authority": "AMFI (Industry Association)",
+    "description": "Distinguishes between mandatory 3-year statutory lock-in (ELSS) versus discretionary exit load redemption window.",
+    "last_checked": "2026-10-02"
+  }
+]

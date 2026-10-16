@@ -1,0 +1,92 @@
+[
+  {
+    "id": "NOTE-20261011-230346",
+    "timestamp": "2026-10-11T23:03:46.652400",
+    "approved_by": "Juhi (Product Lead)",
+    "date": "2026-10-11",
+    "top_themes": [
+      {
+        "name": "Pricing & Exit Load",
+        "description": "1% load complaints"
+      }
+    ],
+    "weekly_pulse": "Sample pulse content under 250 words.",
+    "identified_fee_issue": "Exit Load Misunderstanding",
+    "explanation_bullets": [
+      "Exit load is charged by AMC.",
+      "0% after 365 days."
+    ],
+    "source_links": [
+      {
+        "title": "AMFI",
+        "url": "https://amfiindia.com"
+      }
+    ]
+  },
+  {
+    "id": "NOTE-20261011-230346",
+    "timestamp": "2026-10-11T23:03:46.789249",
+    "approved_by": "Tester",
+    "date": "2026-10-18",
+    "top_themes": [
+      {
+        "name": "Pricing",
+        "description": "Fee issue"
+      }
+    ],
+    "weekly_pulse": "Pulse note for testing retry.",
+    "identified_fee_issue": "Retry Test Exit Load",
+    "explanation_bullets": [
+      "Bullet A"
+    ],
+    "source_links": []
+  },
+  {
+    "id": "NOTE-20261011-231630",
+    "timestamp": "2026-10-11T23:16:30.986729",
+    "approved_by": "Juhi (Product Lead)",
+    "date": "2026-10-11",
+    "top_themes": [
+      {
+        "name": "Pricing & Unexpected Exit Load Charges",
+        "count": 14,
+        "percentage": 56.0,
+        "description": "Users report surprise deductions (1% exit load) when redeeming equity mutual funds before 365 days without in-app warning."
+      },
+      {
+        "name": "SIP Mandate & Payment Processing Delays",
+        "count": 4,
+        "percentage": 16.0,
+        "description": "Complaints regarding Auto-pay failures, delayed unit allotment, and BSE Star MF mandate glitches."
+      },
+      {
+        "name": "App Experience & Portfolio Tracking",
+        "count": 4,
+        "percentage": 16.0,
+        "description": "Positive feedback on dark mode UI, fund search, and requests for improved annual capital gains filters."
+      }
+    ],
+    "weekly_pulse": "WEEKLY PRODUCT PULSE — GROWW MUTUAL FUNDS\nDate Range: 2026-08-01 to 2026-10-10 | Volume: 25 Reviews\n\nSUMMARY OF TOP THEMES:\nCustomer feedback is dominated by: Pricing & Unexpected Exit Load Charges (56.0%), SIP Mandate & Payment Processing Delays (16.0%), App Experience & Portfolio Tracking (16.0%).\n\nSUPPORTING USER QUOTES:\n• “I redeemed my HDFC Flexi Cap fund units after 8 months and noticed almost 1% was deducted as some fee called 'Exit Load'! Why was this not clearly shown on the sell screen?” — Aditya Sharma [Verified Verbatim]\n• “Hidden charges everywhere. When I withdrew my money after 5 months, an exit load fee of ₹1,450 was cut from my balance. Nobody warned me during redemption that 1 year wasn't completed.” — Pooja Hegde [Verified Verbatim]\n\nKEY OBSERVATION:\nRetail investors heavily misunderstand mutual fund Exit Loads (12 mentions, 8 confused). Over 40% of negative reviews mistake the AMC's statutory 1% early redemption load for hidden broker commission. Users prematurely sell units days before the 365-day cutoff without realizing penalties apply.\n\n3 PRODUCT ACTION IDEAS:\n1. Add an 'Exit Load Countdown Pill' on the sell screen displaying exact days remaining until 0% penalty.\n2. Integrate real-time 'Estimated Net Payout' breakdown before T-PIN authorization so deductions are never a surprise.\n3. Add proactive portfolio warning banners: 'Hold for X more days to save 1% exit load' on near-cutoff holdings.",
+    "identified_fee_issue": "Mutual Fund Exit Load Misunderstanding (Unexpected 1% Deduction)",
+    "explanation_bullets": [
+      "Exit Load is a statutory fee levied by the Asset Management Company (AMC)—not Groww—to discourage premature redemptions and protect long-term investors.",
+      "For standard equity mutual funds (e.g. HDFC Flexi Cap), an exit load of 1.00% applies if units are redeemed or switched within 365 days (1 year) from the allotment date.",
+      "If fund units are redeemed after completing 365 days from the allotment date, the applicable exit load is strictly Nil (0%).",
+      "Switching between schemes or moving from Regular to Direct plans is legally treated as a redemption and fresh purchase, attracting exit loads if held under 365 days.",
+      "All exit load proceeds are credited directly back into the mutual fund scheme portfolio for the benefit of continuing unit holders, as mandated by SEBI guidelines.",
+      "Official sources: https://www.amfiindia.com/investor-corner/knowledge-center/exit-load.html and https://www.sebi.gov.in/legal/master-circulars/jun-2023/master-circular-for-mutual-funds_73229.html. Last checked: 2026-10-02."
+    ],
+    "source_links": [
+      {
+        "title": "AMFI India - Mutual Fund Exit Loads Explained",
+        "url": "https://www.amfiindia.com/investor-corner/knowledge-center/exit-load.html",
+        "authority": "AMFI (Industry Association)"
+      },
+      {
+        "title": "SEBI Master Circular for Mutual Funds (Categorization & Rationalization)",
+        "url": "https://www.sebi.gov.in/legal/master-circulars/jun-2023/master-circular-for-mutual-funds_73229.html",
+        "authority": "SEBI (Regulator)"
+      }
+    ]
+  }
+]

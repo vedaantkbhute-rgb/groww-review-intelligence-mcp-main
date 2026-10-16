@@ -1,0 +1,53 @@
+================================================================================
+EMAIL DRAFT PREPARED VIA MCP TOOL (NO AUTO-SEND • APPROVAL-GATED)
+================================================================================
+TO: product-team@groww.in, support-leads@groww.in
+SUBJECT: Weekly Product Pulse + Customer Clarification — 2026-10-11
+DATE: 2026-10-11
+STATUS: DRAFT SAVED
+
+--------------------------------------------------------------------------------
+BODY:
+--------------------------------------------------------------------------------
+Hi Product & Support Teams,
+
+Here is this week's synthesized customer feedback pulse, fee friction analysis, and ready-to-use customer support explanation snippet.
+
+==================================================
+PART 1: WEEKLY PRODUCT PULSE (INTERNAL ONLY)
+==================================================
+
+WEEKLY PRODUCT PULSE — MUTUAL FUNDS
+Date Range: 2026-08-01 to 2026-10-10 | Volume: 25 Reviews
+
+SUMMARY OF TOP THEMES:
+Customer feedback is dominated by: Pricing & Unexpected Exit Load Charges (40.0%), SIP Mandate & Payment Processing Delays (20.0%), App Experience & Portfolio Tracking (20.0%).
+
+SUPPORTING USER QUOTES:
+• “I redeemed my HDFC Flexi Cap fund units after 8 months and noticed almost 1% was deducted as some fee called 'Exit Load'! Why was this not clearly shown on the sell screen?” — Aditya Sharma
+• “Hidden charges everywhere. When I withdrew my money after 5 months, an exit load fee of ₹1,450 was cut from my balance. Nobody warned me during redemption that 1 year wasn't completed.” — Pooja Hegde
+
+KEY OBSERVATION:
+Retail investors heavily misunderstand mutual fund Exit Loads. Over 40% of negative reviews mistake the AMC's statutory 1% early redemption load for hidden broker commission. Users prematurely sell units days before the 365-day cutoff without realizing penalties apply.
+
+3 PRODUCT ACTION IDEAS:
+1. Add an 'Exit Load Countdown Pill' on the sell screen displaying exact days remaining until 0% penalty.
+2. Integrate real-time 'Estimated Net Payout' breakdown before T-PIN authorization so deductions are never a surprise.
+3. Add proactive portfolio warning banners: 'Hold for X more days to save 1% exit load' on near-cutoff holdings.
+
+==================================================
+PART 2: STANDARDIZED FEE EXPLAINER (REUSABLE SUPPORT SNIPPET)
+Issue: Exit Load Confusion (<365 Days Holding)
+==================================================
+
+• Exit Load is a statutory fee levied by the Asset Management Company (AMC)—not Groww—to discourage premature redemptions and protect long-term investors.
+• For standard equity mutual funds (e.g. HDFC Flexi Cap), an exit load of 1.00% applies if units are redeemed or switched within 365 days (1 year) from the allotment date.
+• If fund units are redeemed after completing 365 days from the allotment date, the applicable exit load is strictly Nil (0%).
+• Switching between schemes or moving from Regular to Direct plans is legally treated as a redemption and fresh purchase, attracting exit loads if held under 365 days.
+• All exit load proceeds are credited directly back into the mutual fund scheme portfolio for the benefit of continuing unit holders, as mandated by SEBI guidelines.
+• Official sources: https://www.amfiindia.com/investor-corner/knowledge-center/exit-load.html and https://www.sebi.gov.in/legal/master-circulars/jun-2023/master-circular-for-mutual-funds_73229.html. Last checked: 2026-10-02.
+
+---
+Note: This is an automated draft generated via Groww Review Intelligence MCP workflow.
+Status: DRAFT ONLY (Not automatically dispatched).
+================================================================================

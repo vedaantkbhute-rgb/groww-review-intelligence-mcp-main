@@ -1,0 +1,227 @@
+[
+  {
+    "id": "NOTE-20261011-224156",
+    "timestamp": "2026-10-11T22:41:56.384198",
+    "approved_by": "Juhi (Product Lead)",
+    "date": "2026-10-11",
+    "identified_fee_issue": "Exit Load Misunderstanding",
+    "doc_file": "pulse_2026-10-11.md",
+    "email_subject": "Weekly Product Pulse + Customer Clarification — 2026-10-11"
+  },
+  {
+    "id": "NOTE-20261011-224156",
+    "timestamp": "2026-10-11T22:41:56.676279",
+    "approved_by": "Juhi (Product Lead)",
+    "date": "2026-10-11",
+    "identified_fee_issue": "Mutual Fund Exit Load Misunderstanding (Unexpected 1% Deduction)",
+    "doc_file": "pulse_2026-10-11.md",
+    "email_subject": "Weekly Product Pulse + Customer Clarification — 2026-10-11"
+  },
+  {
+    "id": "NOTE-20261011-225055",
+    "timestamp": "2026-10-11T22:50:55.708021",
+    "approved_by": "Juhi (Product Lead)",
+    "date": "2026-10-11",
+    "identified_fee_issue": "Exit Load Misunderstanding",
+    "doc_file": "pulse_2026-10-11.md",
+    "email_subject": "Weekly Product Pulse + Customer Clarification — 2026-10-11"
+  },
+  {
+    "id": "NOTE-20261011-225055",
+    "timestamp": "2026-10-11T22:50:55.767064",
+    "approved_by": "Tester",
+    "date": "2026-10-18",
+    "identified_fee_issue": "Retry Test Exit Load",
+    "doc_file": "pulse_2026-10-18.md",
+    "email_subject": "Weekly Product Pulse + Customer Clarification — 2026-10-18"
+  },
+  {
+    "id": "NOTE-20261011-225055",
+    "timestamp": "2026-10-11T22:50:55.820696",
+    "approved_by": "Tester",
+    "date": "2026-10-18",
+    "identified_fee_issue": "Retry Test Exit Load",
+    "doc_file": "pulse_2026-10-18.md",
+    "email_subject": "Weekly Product Pulse + Customer Clarification — 2026-10-18"
+  },
+  {
+    "id": "NOTE-20261011-225056",
+    "timestamp": "2026-10-11T22:50:56.018842",
+    "approved_by": "Juhi (Product Lead)",
+    "date": "2026-10-11",
+    "identified_fee_issue": "Mutual Fund Exit Load Misunderstanding (Unexpected 1% Deduction)",
+    "doc_file": "pulse_2026-10-11.md",
+    "email_subject": "Weekly Product Pulse + Customer Clarification — 2026-10-11"
+  },
+  {
+    "id": "NOTE-20261011-225602",
+    "timestamp": "2026-10-11T22:56:02.802071",
+    "approved_by": "Juhi (Product Lead)",
+    "date": "2026-10-11",
+    "identified_fee_issue": "Exit Load Misunderstanding",
+    "doc_file": "pulse_2026-10-11.md",
+    "email_subject": "Weekly Product Pulse + Customer Clarification — 2026-10-11"
+  },
+  {
+    "id": "NOTE-20261011-225602",
+    "timestamp": "2026-10-11T22:56:02.923531",
+    "approved_by": "Tester",
+    "date": "2026-10-18",
+    "identified_fee_issue": "Retry Test Exit Load",
+    "doc_file": "pulse_2026-10-18.md",
+    "email_subject": "Weekly Product Pulse + Customer Clarification — 2026-10-18"
+  },
+  {
+    "id": "NOTE-20261011-225603",
+    "timestamp": "2026-10-11T22:56:03.004465",
+    "approved_by": "Tester",
+    "date": "2026-10-18",
+    "identified_fee_issue": "Retry Test Exit Load",
+    "doc_file": "pulse_2026-10-18.md",
+    "email_subject": "Weekly Product Pulse + Customer Clarification — 2026-10-18"
+  },
+  {
+    "id": "NOTE-20261011-225603",
+    "timestamp": "2026-10-11T22:56:03.238661",
+    "approved_by": "Juhi (Product Lead)",
+    "date": "2026-10-11",
+    "identified_fee_issue": "Mutual Fund Exit Load Misunderstanding (Unexpected 1% Deduction)",
+    "doc_file": "pulse_2026-10-11.md",
+    "email_subject": "Weekly Product Pulse + Customer Clarification — 2026-10-11"
+  },
+  {
+    "id": "NOTE-20261011-225716",
+    "timestamp": "2026-10-11T22:57:16.073436",
+    "approved_by": "Juhi (Product Lead)",
+    "date": "2026-10-11",
+    "identified_fee_issue": "Exit Load Misunderstanding",
+    "doc_file": "pulse_2026-10-11.md",
+    "email_subject": "Weekly Product Pulse + Customer Clarification — 2026-10-11"
+  },
+  {
+    "id": "NOTE-20261011-225716",
+    "timestamp": "2026-10-11T22:57:16.155546",
+    "approved_by": "Tester",
+    "date": "2026-10-18",
+    "identified_fee_issue": "Retry Test Exit Load",
+    "doc_file": "pulse_2026-10-18.md",
+    "email_subject": "Weekly Product Pulse + Customer Clarification — 2026-10-18"
+  },
+  {
+    "id": "NOTE-20261011-225716",
+    "timestamp": "2026-10-11T22:57:16.198097",
+    "approved_by": "Tester",
+    "date": "2026-10-18",
+    "identified_fee_issue": "Retry Test Exit Load",
+    "doc_file": "pulse_2026-10-18.md",
+    "email_subject": "Weekly Product Pulse + Customer Clarification — 2026-10-18"
+  },
+  {
+    "id": "NOTE-20261011-225716",
+    "timestamp": "2026-10-11T22:57:16.387398",
+    "approved_by": "Juhi (Product Lead)",
+    "date": "2026-10-11",
+    "identified_fee_issue": "Mutual Fund Exit Load Misunderstanding (Unexpected 1% Deduction)",
+    "doc_file": "pulse_2026-10-11.md",
+    "email_subject": "Weekly Product Pulse + Customer Clarification — 2026-10-11"
+  },
+  {
+    "id": "NOTE-20261011-230001",
+    "timestamp": "2026-10-11T23:00:01.183339",
+    "approved_by": "Juhi (Product Lead)",
+    "date": "2026-10-11",
+    "identified_fee_issue": "Exit Load Misunderstanding",
+    "doc_file": "pulse_2026-10-11.md",
+    "email_subject": "Weekly Product Pulse + Customer Clarification — 2026-10-11"
+  },
+  {
+    "id": "NOTE-20261011-230001",
+    "timestamp": "2026-10-11T23:00:01.250380",
+    "approved_by": "Tester",
+    "date": "2026-10-18",
+    "identified_fee_issue": "Retry Test Exit Load",
+    "doc_file": "pulse_2026-10-18.md",
+    "email_subject": "Weekly Product Pulse + Customer Clarification — 2026-10-18"
+  },
+  {
+    "id": "NOTE-20261011-230001",
+    "timestamp": "2026-10-11T23:00:01.367751",
+    "approved_by": "Tester",
+    "date": "2026-10-18",
+    "identified_fee_issue": "Retry Test Exit Load",
+    "doc_file": "pulse_2026-10-18.md",
+    "email_subject": "Weekly Product Pulse + Customer Clarification — 2026-10-18"
+  },
+  {
+    "id": "NOTE-20261011-230001",
+    "timestamp": "2026-10-11T23:00:01.621218",
+    "approved_by": "Juhi (Product Lead)",
+    "date": "2026-10-11",
+    "identified_fee_issue": "Mutual Fund Exit Load Misunderstanding (Unexpected 1% Deduction)",
+    "doc_file": "pulse_2026-10-11.md",
+    "email_subject": "Weekly Product Pulse + Customer Clarification — 2026-10-11"
+  },
+  {
+    "id": "NOTE-20261011-230346",
+    "timestamp": "2026-10-11T23:03:46.652400",
+    "approved_by": "Juhi (Product Lead)",
+    "date": "2026-10-11",
+    "identified_fee_issue": "Exit Load Misunderstanding",
+    "doc_file": "pulse_2026-10-11.md",
+    "email_subject": "Weekly Product Pulse + Customer Clarification — 2026-10-11"
+  },
+  {
+    "id": "NOTE-20261011-230346",
+    "timestamp": "2026-10-11T23:03:46.708390",
+    "approved_by": "Tester",
+    "date": "2026-10-18",
+    "identified_fee_issue": "Retry Test Exit Load",
+    "doc_file": "pulse_2026-10-18.md",
+    "email_subject": "Weekly Product Pulse + Customer Clarification — 2026-10-18"
+  },
+  {
+    "id": "NOTE-20261011-230346",
+    "timestamp": "2026-10-11T23:03:46.789249",
+    "approved_by": "Tester",
+    "date": "2026-10-18",
+    "identified_fee_issue": "Retry Test Exit Load",
+    "doc_file": "pulse_2026-10-18.md",
+    "email_subject": "Weekly Product Pulse + Customer Clarification — 2026-10-18"
+  },
+  {
+    "id": "NOTE-20261011-230347",
+    "timestamp": "2026-10-11T23:03:47.006803",
+    "approved_by": "Juhi (Product Lead)",
+    "date": "2026-10-11",
+    "identified_fee_issue": "Mutual Fund Exit Load Misunderstanding (Unexpected 1% Deduction)",
+    "doc_file": "pulse_2026-10-11.md",
+    "email_subject": "Weekly Product Pulse + Customer Clarification — 2026-10-11"
+  },
+  {
+    "id": "NOTE-20261011-231058",
+    "timestamp": "2026-10-11T23:10:58.108244",
+    "approved_by": "Juhi (Product Lead)",
+    "date": "2026-10-11",
+    "identified_fee_issue": "Mutual Fund Exit Load Misunderstanding (Unexpected 1% Deduction)",
+    "doc_file": "pulse_2026-10-11.md",
+    "email_subject": "Weekly Product Pulse + Customer Clarification — 2026-10-11"
+  },
+  {
+    "id": "NOTE-20261011-231115",
+    "timestamp": "2026-10-11T23:11:15.517355",
+    "approved_by": "Juhi (Product Lead)",
+    "date": "2026-10-11",
+    "identified_fee_issue": "Mutual Fund Exit Load Misunderstanding (Unexpected 1% Deduction)",
+    "doc_file": "pulse_2026-10-11.md",
+    "email_subject": "Weekly Product Pulse + Customer Clarification — 2026-10-11"
+  },
+  {
+    "id": "NOTE-20261011-231630",
+    "timestamp": "2026-10-11T23:16:30.986729",
+    "approved_by": "Juhi (Product Lead)",
+    "date": "2026-10-11",
+    "identified_fee_issue": "Mutual Fund Exit Load Misunderstanding (Unexpected 1% Deduction)",
+    "doc_file": "pulse_2026-10-11.md",
+    "email_subject": "Weekly Product Pulse + Customer Clarification — 2026-10-11"
+  }
+]
